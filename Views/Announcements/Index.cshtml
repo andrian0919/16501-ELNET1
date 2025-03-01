@@ -1,0 +1,35 @@
+@model IEnumerable<HomeownersPortal.Models.Announcement>
+@using Microsoft.AspNetCore.Identity
+@using HomeownersPortal.Models
+@inject UserManager<ApplicationUser> UserManager
+
+@{
+    var user = await UserManager.GetUserAsync(User);
+    var isAdmin = user != null && user.Email == "admin@subdivision.com";
+}
+
+<h2>Announcements</h2>
+
+@if (isAdmin)
+{
+    <a asp-action="Create" class="btn btn-primary mb-3">Post New Announcement</a>
+}
+
+@if (Model.Any())
+{
+    <div class="mt-3">
+        @foreach (var announcement in Model.OrderByDescending(a => a.PostedDate))
+        {
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">@announcement.Title</h5>
+                    <p class="card-text">@announcement.Content</p>
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p>No announcements available.</p>
+}

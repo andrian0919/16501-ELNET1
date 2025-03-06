@@ -2,7 +2,42 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="welcome-section">
+    <h1>Welcome to NeighborHood</h1>
+    <p>Discover your dream home in our serene and luxurious community.</p>
+</div>
+
+<div class="guide-section">
+    <h2>Community Guide</h2>
+    <p>Explore our amenities, parks, and community events. Join us for a tour to see what makes our neighborhood special.</p>
+</div>
+
+<div class="website-details">
+    <h2>About Our Website</h2>
+    <p>Our website offers resources for homeowners, including announcements, event calendars, and contact information for community services.</p>
+</div>
+
+<div class="slider-section">
+    <h2>Featured Homes</h2>
+    <div id="homeSlider" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="/images/sub1.jpg" class="d-block w-100" alt="Home 1">
+            </div>
+            <div class="carousel-item">
+                <img src="/images/sub2.jpg" class="d-block w-100" alt="Home 2">
+            </div>
+            <div class="carousel-item">
+                <img src="/images/sub3.jpg" class="d-block w-100" alt="Home 3">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#homeSlider" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#homeSlider" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
 </div>

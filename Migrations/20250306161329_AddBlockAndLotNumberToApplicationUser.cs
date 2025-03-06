@@ -5,13 +5,13 @@
 namespace HomeownersSubdivision.Migrations
 {
     /// <inheritdoc />
-    public partial class AddRoleColumn : Migration
+    public partial class AddBlockAndLotNumberToApplicationUser : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.AddColumn<string>(
-                name: "Role",
+                name: "BlockAndLotNumber",
                 table: "AspNetUsers",
                 type: "longtext",
                 nullable: false)
@@ -21,9 +21,9 @@ namespace HomeownersSubdivision.Migrations
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
-            // migrationBuilder.DropColumn(
-            //     name: "Role",
-            //     table: "AspNetUsers");
+            migrationBuilder.DropColumn(
+                name: "BlockAndLotNumber",
+                table: "AspNetUsers");
         }
     }
 }

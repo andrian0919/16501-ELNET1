@@ -178,7 +178,7 @@
     },
     {
       "Id": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HomeownersSubdivision.bundle.scp.css",
-      "PackagePath": "staticwebassets\\HomeownersSubdivision.t5zdd2gfx6.bundle.scp.css"
+      "PackagePath": "staticwebassets\\HomeownersSubdivision.k10yb9znhy.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\css\\site.css",
@@ -187,6 +187,26 @@
     {
       "Id": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\images\\neighborhood-houses.jpg",
+      "PackagePath": "staticwebassets\\images\\neighborhood-houses.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\images\\sub1.jpg",
+      "PackagePath": "staticwebassets\\images\\sub1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\images\\sub2.jpg",
+      "PackagePath": "staticwebassets\\images\\sub2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\images\\sub3.jpg",
+      "PackagePath": "staticwebassets\\images\\sub3.jpg"
     },
     {
       "Id": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\js\\site.js",

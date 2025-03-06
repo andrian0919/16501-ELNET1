@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "j+rAJDU7evmJdJeu7R10bH4y+zD5mLgp2oeb86k5upo=",
+  "Hash": "P3ItZY59ADB+JcHxCDiOx1da/7CegY6Wjul0LDKQU94=",
   "Source": "HomeownersSubdivision",
   "BasePath": "_content/HomeownersSubdivision",
   "Mode": "Default",
@@ -1193,12 +1193,12 @@
       "OriginalItemSpec": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\303q7imoa5-t5zdd2gfx6.gz",
+      "Identity": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\303q7imoa5-k10yb9znhy.gz",
       "SourceId": "HomeownersSubdivision",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/HomeownersSubdivision",
-      "RelativePath": "HomeownersSubdivision#[.{fingerprint=t5zdd2gfx6}]?.styles.css.gz",
+      "RelativePath": "HomeownersSubdivision#[.{fingerprint=k10yb9znhy}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -1207,8 +1207,8 @@
       "RelatedAsset": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HomeownersSubdivision.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "caeoadbg0o",
-      "Integrity": "rFOaeKTog8HqXC3fGAhTr1r54IRDYS+yPlIsS6Nip1Q=",
+      "Fingerprint": "7n2zngtiti",
+      "Integrity": "I/8KOrM5L4RlRFqPyDGLEkJ/UfHG2grhceBdQiQv7KE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HomeownersSubdivision.styles.css"
@@ -1970,12 +1970,12 @@
       "OriginalItemSpec": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\h6kyq44aed-t5zdd2gfx6.gz",
+      "Identity": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\h6kyq44aed-k10yb9znhy.gz",
       "SourceId": "HomeownersSubdivision",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/HomeownersSubdivision",
-      "RelativePath": "HomeownersSubdivision#[.{fingerprint=t5zdd2gfx6}]!.bundle.scp.css.gz",
+      "RelativePath": "HomeownersSubdivision#[.{fingerprint=k10yb9znhy}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -1984,8 +1984,8 @@
       "RelatedAsset": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HomeownersSubdivision.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "caeoadbg0o",
-      "Integrity": "rFOaeKTog8HqXC3fGAhTr1r54IRDYS+yPlIsS6Nip1Q=",
+      "Fingerprint": "7n2zngtiti",
+      "Integrity": "I/8KOrM5L4RlRFqPyDGLEkJ/UfHG2grhceBdQiQv7KE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HomeownersSubdivision.bundle.scp.css"
@@ -2264,12 +2264,12 @@
       "OriginalItemSpec": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\jtjfviy4if-b9sayid5wm.gz",
+      "Identity": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\jtjfviy4if-oz5ye0fofw.gz",
       "SourceId": "HomeownersSubdivision",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/HomeownersSubdivision",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=oz5ye0fofw}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2278,8 +2278,8 @@
       "RelatedAsset": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0suozzrugb",
-      "Integrity": "0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=",
+      "Fingerprint": "mygumeoeje",
+      "Integrity": "ooB1BeIL2JSpTZOnaGq/gQc0odkc9mjO9blMb+Kj5JM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\css\\site.css"
@@ -3223,8 +3223,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "t5zdd2gfx6",
-      "Integrity": "v9dD0tpLK6OhZ4e6gcMnzcKqGfER9vM+8QSk4aKki08=",
+      "Fingerprint": "k10yb9znhy",
+      "Integrity": "uNOhUmcqVN1FwSCGhMR2wkgOMwF+epNhbkxZIQ747p4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HomeownersSubdivision.styles.css"
@@ -3244,8 +3244,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "t5zdd2gfx6",
-      "Integrity": "v9dD0tpLK6OhZ4e6gcMnzcKqGfER9vM+8QSk4aKki08=",
+      "Fingerprint": "k10yb9znhy",
+      "Integrity": "uNOhUmcqVN1FwSCGhMR2wkgOMwF+epNhbkxZIQ747p4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HomeownersSubdivision.bundle.scp.css"
@@ -3265,8 +3265,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "oz5ye0fofw",
+      "Integrity": "1BA22mdym8RIam3iDe5C5UE9KuOD/FsOXx+rr+3o6IM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -3291,6 +3291,111 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\images\\logo.png",
+      "SourceId": "HomeownersSubdivision",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\",
+      "BasePath": "_content/HomeownersSubdivision",
+      "RelativePath": "images/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cg1atjc961",
+      "Integrity": "JHEobOhT+zS19iWx0N8VL2X27RVR/xowKKno+/LhttI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\images\\neighborhood-houses.jpg",
+      "SourceId": "HomeownersSubdivision",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\",
+      "BasePath": "_content/HomeownersSubdivision",
+      "RelativePath": "images/neighborhood-houses#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wxbzgqko8o",
+      "Integrity": "NB8TJkyBRj4vTJXYJKe2sA1RySFeacLiNtoAHIm0Gso=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\neighborhood-houses.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\images\\sub1.jpg",
+      "SourceId": "HomeownersSubdivision",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\",
+      "BasePath": "_content/HomeownersSubdivision",
+      "RelativePath": "images/sub1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s4utkzt2c3",
+      "Integrity": "NHI8rSqRRXnrMqvljGxb8Nyu+eoMprXgzZG42fDJfYY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sub1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\images\\sub2.jpg",
+      "SourceId": "HomeownersSubdivision",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\",
+      "BasePath": "_content/HomeownersSubdivision",
+      "RelativePath": "images/sub2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3rh4km8bpw",
+      "Integrity": "3x7cpUz30sARa1zdqVL0SZrz1A6opeh0KMlsVILhA2k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sub2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\images\\sub3.jpg",
+      "SourceId": "HomeownersSubdivision",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\",
+      "BasePath": "_content/HomeownersSubdivision",
+      "RelativePath": "images/sub3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r7n9unw4b7",
+      "Integrity": "OYgxGbMqzuOX7F9in/rhOmUWLN40z4qqtybb6i053nI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sub3.jpg"
     },
     {
       "Identity": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\js\\site.js",
@@ -14112,13 +14217,13 @@
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\jtjfviy4if-b9sayid5wm.gz",
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\jtjfviy4if-oz5ye0fofw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003134796238"
+          "Quality": "0.001375515818"
         }
       ],
       "ResponseHeaders": [
@@ -14128,19 +14233,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "726"
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"ooB1BeIL2JSpTZOnaGq/gQc0odkc9mjO9blMb+Kj5JM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 13:05:42 GMT"
+          "Value": "Thu, 06 Mar 2025 13:19:25 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -14156,26 +14261,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"1BA22mdym8RIam3iDe5C5UE9KuOD/FsOXx+rr+3o6IM=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-1BA22mdym8RIam3iDe5C5UE9KuOD/FsOXx+rr+3o6IM="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.css",
       "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -14185,7 +14282,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "1857"
         },
         {
           "Name": "Content-Type",
@@ -14193,11 +14290,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"1BA22mdym8RIam3iDe5C5UE9KuOD/FsOXx+rr+3o6IM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 13:05:42 GMT"
+          "Value": "Thu, 06 Mar 2025 13:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1BA22mdym8RIam3iDe5C5UE9KuOD/FsOXx+rr+3o6IM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\jtjfviy4if-oz5ye0fofw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ooB1BeIL2JSpTZOnaGq/gQc0odkc9mjO9blMb+Kj5JM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ooB1BeIL2JSpTZOnaGq/gQc0odkc9mjO9blMb+Kj5JM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.oz5ye0fofw.css",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\jtjfviy4if-oz5ye0fofw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001375515818"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "726"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ooB1BeIL2JSpTZOnaGq/gQc0odkc9mjO9blMb+Kj5JM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1BA22mdym8RIam3iDe5C5UE9KuOD/FsOXx+rr+3o6IM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oz5ye0fofw"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1BA22mdym8RIam3iDe5C5UE9KuOD/FsOXx+rr+3o6IM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.oz5ye0fofw.css",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1857"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1BA22mdym8RIam3iDe5C5UE9KuOD/FsOXx+rr+3o6IM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:19:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14207,7 +14449,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "oz5ye0fofw"
         },
         {
           "Name": "label",
@@ -14215,13 +14457,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-1BA22mdym8RIam3iDe5C5UE9KuOD/FsOXx+rr+3o6IM="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\jtjfviy4if-b9sayid5wm.gz",
+      "Route": "css/site.oz5ye0fofw.css.gz",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\jtjfviy4if-oz5ye0fofw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14230,7 +14472,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "726"
         },
         {
           "Name": "Content-Type",
@@ -14238,11 +14480,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"ooB1BeIL2JSpTZOnaGq/gQc0odkc9mjO9blMb+Kj5JM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 13:05:42 GMT"
+          "Value": "Thu, 06 Mar 2025 13:19:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14260,7 +14502,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "oz5ye0fofw"
         },
         {
           "Name": "label",
@@ -14268,144 +14510,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\jtjfviy4if-b9sayid5wm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003134796238"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "318"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 13:05:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 13:05:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\jtjfviy4if-b9sayid5wm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "318"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 13:05:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+          "Value": "sha256-ooB1BeIL2JSpTZOnaGq/gQc0odkc9mjO9blMb+Kj5JM="
         }
       ]
     },
@@ -14709,12 +14814,12 @@
     },
     {
       "Route": "HomeownersSubdivision.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\h6kyq44aed-t5zdd2gfx6.gz",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\h6kyq44aed-k10yb9znhy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001824817518"
+          "Quality": "0.001277139208"
         }
       ],
       "ResponseHeaders": [
@@ -14724,15 +14829,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "547"
+          "Value": "782"
         },
         {
           "Name": "ETag",
-          "Value": "\"rFOaeKTog8HqXC3fGAhTr1r54IRDYS+yPlIsS6Nip1Q=\""
+          "Value": "\"I/8KOrM5L4RlRFqPyDGLEkJ/UfHG2grhceBdQiQv7KE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Mar 2025 04:37:57 GMT"
+          "Value": "Thu, 06 Mar 2025 16:21:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14752,13 +14857,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"v9dD0tpLK6OhZ4e6gcMnzcKqGfER9vM+8QSk4aKki08=\""
+          "Value": "W/\"uNOhUmcqVN1FwSCGhMR2wkgOMwF+epNhbkxZIQ747p4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-v9dD0tpLK6OhZ4e6gcMnzcKqGfER9vM+8QSk4aKki08="
+          "Value": "sha256-uNOhUmcqVN1FwSCGhMR2wkgOMwF+epNhbkxZIQ747p4="
         }
       ]
     },
@@ -14773,7 +14878,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1141"
+          "Value": "1980"
         },
         {
           "Name": "Content-Type",
@@ -14781,11 +14886,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"v9dD0tpLK6OhZ4e6gcMnzcKqGfER9vM+8QSk4aKki08=\""
+          "Value": "\"uNOhUmcqVN1FwSCGhMR2wkgOMwF+epNhbkxZIQ747p4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Mar 2025 04:37:57 GMT"
+          "Value": "Thu, 06 Mar 2025 16:21:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14795,13 +14900,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-v9dD0tpLK6OhZ4e6gcMnzcKqGfER9vM+8QSk4aKki08="
+          "Value": "sha256-uNOhUmcqVN1FwSCGhMR2wkgOMwF+epNhbkxZIQ747p4="
         }
       ]
     },
     {
       "Route": "HomeownersSubdivision.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\h6kyq44aed-t5zdd2gfx6.gz",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\h6kyq44aed-k10yb9znhy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14810,7 +14915,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "547"
+          "Value": "782"
         },
         {
           "Name": "Content-Type",
@@ -14818,11 +14923,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rFOaeKTog8HqXC3fGAhTr1r54IRDYS+yPlIsS6Nip1Q=\""
+          "Value": "\"I/8KOrM5L4RlRFqPyDGLEkJ/UfHG2grhceBdQiQv7KE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Mar 2025 04:37:57 GMT"
+          "Value": "Thu, 06 Mar 2025 16:21:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14840,18 +14945,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rFOaeKTog8HqXC3fGAhTr1r54IRDYS+yPlIsS6Nip1Q="
+          "Value": "sha256-I/8KOrM5L4RlRFqPyDGLEkJ/UfHG2grhceBdQiQv7KE="
         }
       ]
     },
     {
-      "Route": "HomeownersSubdivision.styles.css",
-      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\303q7imoa5-t5zdd2gfx6.gz",
+      "Route": "HomeownersSubdivision.k10yb9znhy.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\h6kyq44aed-k10yb9znhy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001824817518"
+          "Quality": "0.001277139208"
         }
       ],
       "ResponseHeaders": [
@@ -14861,152 +14966,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "547"
+          "Value": "782"
         },
         {
           "Name": "ETag",
-          "Value": "\"rFOaeKTog8HqXC3fGAhTr1r54IRDYS+yPlIsS6Nip1Q=\""
+          "Value": "\"I/8KOrM5L4RlRFqPyDGLEkJ/UfHG2grhceBdQiQv7KE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Mar 2025 04:37:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"v9dD0tpLK6OhZ4e6gcMnzcKqGfER9vM+8QSk4aKki08=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-v9dD0tpLK6OhZ4e6gcMnzcKqGfER9vM+8QSk4aKki08="
-        }
-      ]
-    },
-    {
-      "Route": "HomeownersSubdivision.styles.css",
-      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HomeownersSubdivision.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1141"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"v9dD0tpLK6OhZ4e6gcMnzcKqGfER9vM+8QSk4aKki08=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 01 Mar 2025 04:37:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-v9dD0tpLK6OhZ4e6gcMnzcKqGfER9vM+8QSk4aKki08="
-        }
-      ]
-    },
-    {
-      "Route": "HomeownersSubdivision.styles.css.gz",
-      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\303q7imoa5-t5zdd2gfx6.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "547"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rFOaeKTog8HqXC3fGAhTr1r54IRDYS+yPlIsS6Nip1Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 01 Mar 2025 04:37:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rFOaeKTog8HqXC3fGAhTr1r54IRDYS+yPlIsS6Nip1Q="
-        }
-      ]
-    },
-    {
-      "Route": "HomeownersSubdivision.t5zdd2gfx6.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\h6kyq44aed-t5zdd2gfx6.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001824817518"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "547"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rFOaeKTog8HqXC3fGAhTr1r54IRDYS+yPlIsS6Nip1Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 01 Mar 2025 04:37:57 GMT"
+          "Value": "Thu, 06 Mar 2025 16:21:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15026,13 +14994,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"v9dD0tpLK6OhZ4e6gcMnzcKqGfER9vM+8QSk4aKki08=\""
+          "Value": "W/\"uNOhUmcqVN1FwSCGhMR2wkgOMwF+epNhbkxZIQ747p4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "t5zdd2gfx6"
+          "Value": "k10yb9znhy"
         },
         {
           "Name": "label",
@@ -15040,12 +15008,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-v9dD0tpLK6OhZ4e6gcMnzcKqGfER9vM+8QSk4aKki08="
+          "Value": "sha256-uNOhUmcqVN1FwSCGhMR2wkgOMwF+epNhbkxZIQ747p4="
         }
       ]
     },
     {
-      "Route": "HomeownersSubdivision.t5zdd2gfx6.bundle.scp.css",
+      "Route": "HomeownersSubdivision.k10yb9znhy.bundle.scp.css",
       "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HomeownersSubdivision.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -15055,7 +15023,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1141"
+          "Value": "1980"
         },
         {
           "Name": "Content-Type",
@@ -15063,11 +15031,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"v9dD0tpLK6OhZ4e6gcMnzcKqGfER9vM+8QSk4aKki08=\""
+          "Value": "\"uNOhUmcqVN1FwSCGhMR2wkgOMwF+epNhbkxZIQ747p4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Mar 2025 04:37:57 GMT"
+          "Value": "Thu, 06 Mar 2025 16:21:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15077,7 +15045,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "t5zdd2gfx6"
+          "Value": "k10yb9znhy"
         },
         {
           "Name": "label",
@@ -15085,13 +15053,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-v9dD0tpLK6OhZ4e6gcMnzcKqGfER9vM+8QSk4aKki08="
+          "Value": "sha256-uNOhUmcqVN1FwSCGhMR2wkgOMwF+epNhbkxZIQ747p4="
         }
       ]
     },
     {
-      "Route": "HomeownersSubdivision.t5zdd2gfx6.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\h6kyq44aed-t5zdd2gfx6.gz",
+      "Route": "HomeownersSubdivision.k10yb9znhy.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\h6kyq44aed-k10yb9znhy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15100,7 +15068,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "547"
+          "Value": "782"
         },
         {
           "Name": "Content-Type",
@@ -15108,11 +15076,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rFOaeKTog8HqXC3fGAhTr1r54IRDYS+yPlIsS6Nip1Q=\""
+          "Value": "\"I/8KOrM5L4RlRFqPyDGLEkJ/UfHG2grhceBdQiQv7KE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Mar 2025 04:37:57 GMT"
+          "Value": "Thu, 06 Mar 2025 16:21:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15130,7 +15098,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "t5zdd2gfx6"
+          "Value": "k10yb9znhy"
         },
         {
           "Name": "label",
@@ -15138,18 +15106,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rFOaeKTog8HqXC3fGAhTr1r54IRDYS+yPlIsS6Nip1Q="
+          "Value": "sha256-I/8KOrM5L4RlRFqPyDGLEkJ/UfHG2grhceBdQiQv7KE="
         }
       ]
     },
     {
-      "Route": "HomeownersSubdivision.t5zdd2gfx6.styles.css",
-      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\303q7imoa5-t5zdd2gfx6.gz",
+      "Route": "HomeownersSubdivision.k10yb9znhy.styles.css",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\303q7imoa5-k10yb9znhy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001824817518"
+          "Quality": "0.001277139208"
         }
       ],
       "ResponseHeaders": [
@@ -15159,15 +15127,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "547"
+          "Value": "782"
         },
         {
           "Name": "ETag",
-          "Value": "\"rFOaeKTog8HqXC3fGAhTr1r54IRDYS+yPlIsS6Nip1Q=\""
+          "Value": "\"I/8KOrM5L4RlRFqPyDGLEkJ/UfHG2grhceBdQiQv7KE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Mar 2025 04:37:57 GMT"
+          "Value": "Thu, 06 Mar 2025 16:21:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15187,13 +15155,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"v9dD0tpLK6OhZ4e6gcMnzcKqGfER9vM+8QSk4aKki08=\""
+          "Value": "W/\"uNOhUmcqVN1FwSCGhMR2wkgOMwF+epNhbkxZIQ747p4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "t5zdd2gfx6"
+          "Value": "k10yb9znhy"
         },
         {
           "Name": "label",
@@ -15201,12 +15169,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-v9dD0tpLK6OhZ4e6gcMnzcKqGfER9vM+8QSk4aKki08="
+          "Value": "sha256-uNOhUmcqVN1FwSCGhMR2wkgOMwF+epNhbkxZIQ747p4="
         }
       ]
     },
     {
-      "Route": "HomeownersSubdivision.t5zdd2gfx6.styles.css",
+      "Route": "HomeownersSubdivision.k10yb9znhy.styles.css",
       "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HomeownersSubdivision.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -15216,7 +15184,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1141"
+          "Value": "1980"
         },
         {
           "Name": "Content-Type",
@@ -15224,11 +15192,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"v9dD0tpLK6OhZ4e6gcMnzcKqGfER9vM+8QSk4aKki08=\""
+          "Value": "\"uNOhUmcqVN1FwSCGhMR2wkgOMwF+epNhbkxZIQ747p4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Mar 2025 04:37:57 GMT"
+          "Value": "Thu, 06 Mar 2025 16:21:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15238,7 +15206,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "t5zdd2gfx6"
+          "Value": "k10yb9znhy"
         },
         {
           "Name": "label",
@@ -15246,13 +15214,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-v9dD0tpLK6OhZ4e6gcMnzcKqGfER9vM+8QSk4aKki08="
+          "Value": "sha256-uNOhUmcqVN1FwSCGhMR2wkgOMwF+epNhbkxZIQ747p4="
         }
       ]
     },
     {
-      "Route": "HomeownersSubdivision.t5zdd2gfx6.styles.css.gz",
-      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\303q7imoa5-t5zdd2gfx6.gz",
+      "Route": "HomeownersSubdivision.k10yb9znhy.styles.css.gz",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\303q7imoa5-k10yb9znhy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15261,7 +15229,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "547"
+          "Value": "782"
         },
         {
           "Name": "Content-Type",
@@ -15269,11 +15237,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rFOaeKTog8HqXC3fGAhTr1r54IRDYS+yPlIsS6Nip1Q=\""
+          "Value": "\"I/8KOrM5L4RlRFqPyDGLEkJ/UfHG2grhceBdQiQv7KE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 01 Mar 2025 04:37:57 GMT"
+          "Value": "Thu, 06 Mar 2025 16:21:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15291,7 +15259,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "t5zdd2gfx6"
+          "Value": "k10yb9znhy"
         },
         {
           "Name": "label",
@@ -15299,7 +15267,554 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rFOaeKTog8HqXC3fGAhTr1r54IRDYS+yPlIsS6Nip1Q="
+          "Value": "sha256-I/8KOrM5L4RlRFqPyDGLEkJ/UfHG2grhceBdQiQv7KE="
+        }
+      ]
+    },
+    {
+      "Route": "HomeownersSubdivision.styles.css",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\303q7imoa5-k10yb9znhy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001277139208"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "782"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I/8KOrM5L4RlRFqPyDGLEkJ/UfHG2grhceBdQiQv7KE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:21:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"uNOhUmcqVN1FwSCGhMR2wkgOMwF+epNhbkxZIQ747p4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uNOhUmcqVN1FwSCGhMR2wkgOMwF+epNhbkxZIQ747p4="
+        }
+      ]
+    },
+    {
+      "Route": "HomeownersSubdivision.styles.css",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HomeownersSubdivision.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1980"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uNOhUmcqVN1FwSCGhMR2wkgOMwF+epNhbkxZIQ747p4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:21:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uNOhUmcqVN1FwSCGhMR2wkgOMwF+epNhbkxZIQ747p4="
+        }
+      ]
+    },
+    {
+      "Route": "HomeownersSubdivision.styles.css.gz",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\obj\\Debug\\net9.0\\compressed\\303q7imoa5-k10yb9znhy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I/8KOrM5L4RlRFqPyDGLEkJ/UfHG2grhceBdQiQv7KE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:21:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I/8KOrM5L4RlRFqPyDGLEkJ/UfHG2grhceBdQiQv7KE="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.cg1atjc961.png",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JHEobOhT+zS19iWx0N8VL2X27RVR/xowKKno+/LhttI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 14:06:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cg1atjc961"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JHEobOhT+zS19iWx0N8VL2X27RVR/xowKKno+/LhttI="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.png",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JHEobOhT+zS19iWx0N8VL2X27RVR/xowKKno+/LhttI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 14:06:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JHEobOhT+zS19iWx0N8VL2X27RVR/xowKKno+/LhttI="
+        }
+      ]
+    },
+    {
+      "Route": "images/neighborhood-houses.jpg",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\images\\neighborhood-houses.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7593993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NB8TJkyBRj4vTJXYJKe2sA1RySFeacLiNtoAHIm0Gso=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Mar 2025 04:46:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NB8TJkyBRj4vTJXYJKe2sA1RySFeacLiNtoAHIm0Gso="
+        }
+      ]
+    },
+    {
+      "Route": "images/neighborhood-houses.wxbzgqko8o.jpg",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\images\\neighborhood-houses.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7593993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NB8TJkyBRj4vTJXYJKe2sA1RySFeacLiNtoAHIm0Gso=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Mar 2025 04:46:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wxbzgqko8o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/neighborhood-houses.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NB8TJkyBRj4vTJXYJKe2sA1RySFeacLiNtoAHIm0Gso="
+        }
+      ]
+    },
+    {
+      "Route": "images/sub1.jpg",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\images\\sub1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "341317"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NHI8rSqRRXnrMqvljGxb8Nyu+eoMprXgzZG42fDJfYY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:11:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NHI8rSqRRXnrMqvljGxb8Nyu+eoMprXgzZG42fDJfYY="
+        }
+      ]
+    },
+    {
+      "Route": "images/sub1.s4utkzt2c3.jpg",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\images\\sub1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "341317"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NHI8rSqRRXnrMqvljGxb8Nyu+eoMprXgzZG42fDJfYY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:11:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s4utkzt2c3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sub1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NHI8rSqRRXnrMqvljGxb8Nyu+eoMprXgzZG42fDJfYY="
+        }
+      ]
+    },
+    {
+      "Route": "images/sub2.3rh4km8bpw.jpg",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\images\\sub2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180951"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3x7cpUz30sARa1zdqVL0SZrz1A6opeh0KMlsVILhA2k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:12:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3rh4km8bpw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sub2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3x7cpUz30sARa1zdqVL0SZrz1A6opeh0KMlsVILhA2k="
+        }
+      ]
+    },
+    {
+      "Route": "images/sub2.jpg",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\images\\sub2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180951"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3x7cpUz30sARa1zdqVL0SZrz1A6opeh0KMlsVILhA2k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:12:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3x7cpUz30sARa1zdqVL0SZrz1A6opeh0KMlsVILhA2k="
+        }
+      ]
+    },
+    {
+      "Route": "images/sub3.jpg",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\images\\sub3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123813"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OYgxGbMqzuOX7F9in/rhOmUWLN40z4qqtybb6i053nI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:12:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OYgxGbMqzuOX7F9in/rhOmUWLN40z4qqtybb6i053nI="
+        }
+      ]
+    },
+    {
+      "Route": "images/sub3.r7n9unw4b7.jpg",
+      "AssetFile": "C:\\Users\\Andrian\\HomeownersSubdivision\\wwwroot\\images\\sub3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123813"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OYgxGbMqzuOX7F9in/rhOmUWLN40z4qqtybb6i053nI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:12:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r7n9unw4b7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sub3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OYgxGbMqzuOX7F9in/rhOmUWLN40z4qqtybb6i053nI="
         }
       ]
     },

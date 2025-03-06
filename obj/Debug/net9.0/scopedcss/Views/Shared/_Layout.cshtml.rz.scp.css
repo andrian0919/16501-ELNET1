@@ -5,6 +5,7 @@ a.navbar-brand[b-o8jha5gma7] {
   white-space: normal;
   text-align: center;
   word-break: break-all;
+  color: #ffffff;
 }
 
 a[b-o8jha5gma7] {
@@ -45,5 +46,43 @@ button.accept-policy[b-o8jha5gma7] {
   width: 100%;
   white-space: nowrap;
   line-height: 60px;
+  background-color: #343a40;
+  color: #ffffff;
+}
+
+.footer a[b-o8jha5gma7] {
+  color: #ffffff;
+}
+
+body[b-o8jha5gma7] {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: url('/images/neighborhood-houses.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: #ffffff;
+}
+
+.navbar-dark .navbar-nav .nav-link[b-o8jha5gma7] {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.navbar-dark .navbar-nav .nav-link.active[b-o8jha5gma7] {
+  color: #ffffff;
+}
+
+.welcome-section[b-o8jha5gma7] {
+  text-align: center;
+  padding: 50px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+}
+
+.welcome-section h1[b-o8jha5gma7] {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.welcome-section p[b-o8jha5gma7] {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
 }
 

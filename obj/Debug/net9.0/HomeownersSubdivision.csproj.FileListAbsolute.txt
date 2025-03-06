@@ -104,6 +104,7 @@ C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\HomeownersSubdivision.cs
 C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\HomeownersSubdivision.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\HomeownersSubdivision.RazorAssemblyInfo.cache
 C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\HomeownersSubdivision.RazorAssemblyInfo.cs
+C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\HomeownersSubdivision.sourcelink.json
 C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\scopedcss\bundle\HomeownersSubdivision.styles.css
 C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\scopedcss\projectbundle\HomeownersSubdivision.bundle.scp.css
@@ -151,7 +152,7 @@ C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\compressed\yae1lm3alc-no
 C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\compressed\ogumja2klh-h1s4sie4z3.gz
 C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\compressed\j7dmi18ymk-63fj8s7r0e.gz
 C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\compressed\1w0th84zhy-0j3bgjxly4.gz
-C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\compressed\jtjfviy4if-b9sayid5wm.gz
+C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\compressed\jtjfviy4if-oz5ye0fofw.gz
 C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\compressed\wsv9w0oso5-61n19gt1b8.gz
 C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\compressed\2hmuflt05u-xtxxf3hu2r.gz
 C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\compressed\2trjio3t9p-bqjiyaj88i.gz
@@ -213,6 +214,8 @@ C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\compressed\z1djma12ox-2z
 C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\compressed\mgdtpw3338-muycvpuwrr.gz
 C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\compressed\bi3ah0rrvr-87fc7y1x7t.gz
 C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\compressed\pmhclituga-mlv21k5csn.gz
+C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\compressed\303q7imoa5-k10yb9znhy.gz
+C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\compressed\h6kyq44aed-k10yb9znhy.gz
 C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -228,5 +231,3 @@ C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\refint\HomeownersSubdivi
 C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\HomeownersSubdivision.pdb
 C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\HomeownersSubdivision.genruntimeconfig.cache
 C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\ref\HomeownersSubdivision.dll
-C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\compressed\303q7imoa5-t5zdd2gfx6.gz
-C:\Users\Andrian\HomeownersSubdivision\obj\Debug\net9.0\compressed\h6kyq44aed-t5zdd2gfx6.gz

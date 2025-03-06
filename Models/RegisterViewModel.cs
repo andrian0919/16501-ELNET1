@@ -22,6 +22,9 @@ namespace HomeownersPortal.Models
 
         [Required]
         public string Address { get; set; }
+
+        [Required]
+        public string BlockAndLotNumber { get; set; }
     }
 
 }

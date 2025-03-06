@@ -48,6 +48,7 @@ namespace HomeownersPortal.Controllers
                 Email = model.Email,
                 FullName = model.FullName,
                 Address = model.Address,
+                BlockAndLotNumber = model.BlockAndLotNumber,
             };
 
             var result = await _userManager.CreateAsync(user, model.Password);

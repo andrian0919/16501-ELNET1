@@ -2,20 +2,127 @@
 
 <div class="container d-flex justify-content-center align-items-center" style="height: 100vh;">
     <div class="card p-4 shadow-lg" style="width: 400px;">
-        <h2 class="text-center">Login</h2>
+        <img src="/images/logo.png" alt="Logo" class="mx-auto d-block mb-3" style="width: 150px;">
+        <h2 class="text-center">Welcome Back!</h2>
+        <p class="text-center">Please enter your username and password to log in</p>
         <form asp-action="Login" method="post">
             <div asp-validation-summary="All" class="text-danger"></div>
             <div class="mb-3">
-                <label class="form-label">Email</label>
-                <input asp-for="Email" class="form-control" />
+                <label class="form-label">Email <span class="text-muted">(required)</span></label>
+                <input asp-for="Email" class="form-control" placeholder="Username" />
                 <span asp-validation-for="Email" class="text-danger"></span>
             </div>
-            <div class="mb-3">
-                <label class="form-label">Password</label>
-                <input asp-for="Password" type="password" class="form-control" />
+            <div class="mb-3 position-relative">
+                <label class="form-label">Password <span class="text-muted">(required)</span></label>
+                <div class="input-group">
+                    <input asp-for="Password" type="password" class="form-control" id="password" placeholder="Password" />
+                    <button type="button" class="btn btn-outline-secondary" onclick="togglePassword()">
+                        <i class="bi bi-eye" id="toggleIcon"></i>
+                    </button>
+                </div>
                 <span asp-validation-for="Password" class="text-danger"></span>
             </div>
-            <button type="submit" class="btn btn-primary w-100">Login</button>
+            <div class="mb-3 form-check">
+                <input type="checkbox" class="form-check-input" id="rememberMe">
+                <label class="form-check-label" for="rememberMe">Keep me signed in</label>
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Log in</button>
+            <div class="text-center mt-3">
+                <a href="/Account/ForgotPassword" class="text-decoration-none">Forgot password?</a>
+            </div>
+            <div class="text-center mt-2">
+                <p>Don't have an account? <a href="/Account/Register" class="text-decoration-none">Register</a></p>
+            </div>
         </form>
     </div>
 </div>
+
+<script>
+function togglePassword() {
+    const passwordField = document.getElementById('password');
+    const toggleIcon = document.getElementById('toggleIcon');
+    if (passwordField.type === 'password') {
+        passwordField.type = 'text';
+        toggleIcon.classList.remove('bi-eye');
+        toggleIcon.classList.add('bi-eye-slash');
+    } else {
+        passwordField.type = 'password';
+        toggleIcon.classList.remove('bi-eye-slash');
+        toggleIcon.classList.add('bi-eye');
+    }
+}
+</script>
+
+<style>
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.btn-primary:hover {
+    background-color: #155a9c;
+    transform: scale(1.05);
+}
+
+.text-muted {
+    font-size: 0.9rem;
+}
+
+.text-center a {
+    color: #1b6ec2;
+    transition: color 0.3s;
+}
+
+.text-center a:hover {
+    color: #155a9c;
+}
+
+.text-center p {
+    color: #000000;
+}
+
+.position-relative {
+    position: relative;
+}
+
+.btn-link {
+    padding: 0;
+    border: none;
+    background: none;
+    outline: none;
+    box-shadow: none;
+}
+
+.input-group .form-control {
+    border-right: none;
+    border-radius: 0.25rem 0 0 0.25rem;
+}
+
+.input-group .btn {
+    border-left: none;
+    border-radius: 0 0.25rem 0.25rem 0;
+    background-color: #ffffff;
+    color: #6c757d;
+}
+
+.input-group .btn:hover {
+    background-color: #f8f9fa;
+    color: #495057;
+}
+
+#toggleIcon {
+    font-size: 1.2rem;
+    color: #6c757d;
+    cursor: pointer;
+}
+</style>

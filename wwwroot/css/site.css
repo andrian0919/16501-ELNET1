@@ -11,6 +11,18 @@ html {
 body {
   background: url('/images/neighborhood-houses.jpg') no-repeat center center fixed;
   background-size: cover;
+  color: #ffffff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #ffffff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+p, a, li {
+  color: #ffffff;
+  line-height: 1.6;
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
@@ -33,4 +45,50 @@ body {
 
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
+}
+
+.guide-section, .website-details, .slider-section {
+  text-align: center;
+  padding: 40px;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 15px;
+  margin-bottom: 30px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.carousel-inner img {
+  border-radius: 15px;
+  transition: transform 0.5s;
+}
+
+.carousel-inner img:hover {
+  transform: scale(1.02);
+}
+
+.footer {
+  background-color: #343a40;
+  color: #ffffff;
+  padding: 30px 0;
+  text-align: center;
+}
+
+.footer a {
+  color: #ffffff;
+  margin: 0 15px;
+  transition: color 0.3s;
+}
+
+.footer a:hover {
+  color: #1b6ec2;
+}
+
+.btn-primary {
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.btn-primary:hover {
+  background-color: #155a9c;
+  transform: scale(1.05);
 }
